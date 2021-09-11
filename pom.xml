@@ -12,13 +12,11 @@
   <groupId>junit</groupId>
   <artifactId>junit</artifactId>
   <version>4.13.2</version>
-  <scope>test</scope>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
-    <scope>test</scope>
 </dependency>
 <dependency>
     <groupId>mysql</groupId>
@@ -40,7 +38,6 @@
 	<groupId>io.cucumber</groupId>
 	<artifactId>cucumber-java</artifactId>
 	<version>6.7.0</version>
-	<scope>test</scope>
 </dependency>
 <dependency>
     <groupId>io.cucumber</groupId>
